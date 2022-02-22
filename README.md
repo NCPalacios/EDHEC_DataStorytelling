@@ -1,37 +1,47 @@
 # Data Storytelling
-This repository contains all the needed information for the **Data Visualization and Storytelling** course.  
-The objective of the course is to emphasize on principles, theory, processes and techniques used to build effective visuals helping students to choose the best way to show data, understand data and communicate with data. Practical application of data visualization will give students some of the foundations needed:
-  * to present data using engaging and impactful visual design
-  * to go deeper and grow additional skills in data visualization using other tools
+Contains all the necessary information for the **Data Visualization and Storytelling** course.  
 
-## Graded Exam & Assignment
-All the information related to grading and the personal and group work is available here:
-- [Challenges and assignments](./Challenges.md)
-- If you have doubts or you're not sure what os expected, ask your instructor as soon as possible.
+## Learning objectives
+
+This course teaches you the principles, theories, processes, and techniques to build effective visuals. After completing this course, you will know how to do the following:
+* Interpret data.
+* Present data in engaging and impactful visual design.
+* Use other tools in data visualization. 
+* Develop additional skill. 
+
+## Graded exam & assignment
+All the information related to grading, personal work, and group work is available here:
+* [Challenges and assignments](./Challenges.md)
+
+If you have any questions or doubts, ask your instructor as soon as possible.
 
 ## Course setup
-For the Lab section of the course, students will use **IBM Watson Studio** which is an **IBM Cloud Service**.  
-The tasks needed to setup your Lab environment are the following:
+For the Lab section of the course, you will use **IBM Watson Studio** which is a part of **IBM Cloud Service**.  
+To setup your Lab environment, take the following steps:
 1. Create an **IBM Cloud** account ([instructions](./setup/ibm_cloud.md))
 2. Create the **IBM Watson Studio** instance ([instructions](./setup/ibm_watson.md))
-3. Load the needed data files into the project as Data Assets
+3. Load the necessary data files into the project as Data Assets
 
 ## Course labs
-Practical Hands-on experience will be provided during the Labs. List of Labs is available here, clicking on the link will direct you to the Labs instructions.
+We will provice the Practical Hands-on experience during the Labs. List of Labs instructions are available here: 
 + [Visualization using **IBM Watson Studio**](./Lab2-Visualizations/Lab2-Visualization.md)
   - **Brunel** Visualization
   - **Pixie Dust** Visualization
   - **Seaborn** Visualization
   - Embedded Dashboards
 
-## Resources
-This section covers all additional resources which you might want to explore to get a broader understanding of some of the major Visualization libraries, techniques, tools and so on.
-It includes tutorials, related web sites, course material.
+## Resources 
+This section covers all additional resources to give you a broader understanding of some of the major visualization libraries, techniques, tools and so on.
+It includes tutorials, related web sites, and course materials.
 
 ### Readings and Videos
-+ **Data Visualisation** *A Hanbook for Data Driven Design* by **Andy Kirk** ![](assets/markdown-img-paste-20181120125847352.png)
++ **Data Visualisation** *A Hanbook for Data Driven Design* by **Andy Kirk** 
 
-+ **Storytelling with Data** by **Cole Nussbaumer Knaflic** ![](assets/markdown-img-paste-20181120130258474.png)
+![](assets/markdown-img-paste-20181120125847352.png)
+
++ **Storytelling with Data** by **Cole Nussbaumer Knaflic** 
+
+![](assets/markdown-img-paste-20181120130258474.png)
 
 + [Information is Beautiful](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=2ahUKEwijm4KP9-LeAhVFyhoKHTfRAroQwqsBMAB6BAgGEAQ&url=https%3A%2F%2Fwww.ted.com%2Ftalks%2Fdavid_mccandless_the_beauty_of_data_visualization&usg=AOvVaw2kPrl39xSRhoL9pBOlrHHX) TED conference by **David McCandless**
 
@@ -47,5 +57,5 @@ It includes tutorials, related web sites, course material.
 
 
 ### Useful Websites
-+ **DataVisualization.ch Selection** (http://selection.datavisualization.ch) is a collection of tools that we, the people behind Datavisualization.ch, work with on a daily basis and recommend warmly. This is not a list of everything out there, but instead a thoughtfully curated selection of our favourite tools that will make your life easier creating meaningful and beautiful data visualizations.
++ **DataVisualization.ch Selection** (http://selection.datavisualization.ch) is a collection of tools that we, the people behind Datavisualization.ch, work with on a daily basis and highly recommend. This is not a list of everything out there. This is a thoughtfully curated selection of our favourite tools that will make creating meaningful and beautiful data visualizations easier.
 + **Visualising Data Website** http://www.visualisingdata.com/resources presents a quite exhaustive list of tools
